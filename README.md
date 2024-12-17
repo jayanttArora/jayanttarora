@@ -59,7 +59,7 @@
 ###
 
 <div align="center">
-  <a href="https://introforjayant.netlify.app">
+  <a href="https://introforjayant.netlify.app" target="_blank">
   <img height="118" src="https://introforjayant.netlify.app/images/my-logo.png"  />
   </a>
 </div>
